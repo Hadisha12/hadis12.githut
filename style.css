@@ -1,0 +1,16 @@
+.margin{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.anasayfa{
+background-color: aqua  
+}
+.hakkimizda{
+    height: 800px;
+    width: 100px;
+    text-align: center;
+    background-image: none;
+}
